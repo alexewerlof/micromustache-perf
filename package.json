@@ -20,7 +20,7 @@
     "mustache": "^3.0.1",
     "nunjucks": "^3.1.7",
     "template7": "^1.4.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "author": "Alex Ewerlöf",
   "license": "MIT",
